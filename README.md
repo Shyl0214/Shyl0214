@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring webdeveloper, particularly interested in front-end web development and in the latest trends in web design.
 - 🌱 I’m currently in my 3rd year of college pursing my bachelor's degree in CSE-AI , Ganpat Univesity.
 - 💞️ I’m looking to collaborate with same minded people who aspire and desire to create some unique web desings and a peace of art in webdev.
-- 📫 You can reach me on Linkedin : www.linkedin.com/in/shailesh-kumar-singh-b57898218
+- 📫 You can reach me on Linkedin : www.linkedin.com/in/shailesh-kumar-singh-b57898218/shaileshkumarsingh988@gmail.com
 - 
 
 <!---
